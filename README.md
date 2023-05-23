@@ -73,3 +73,13 @@ Contributions to the Delivery Cost Analysis and Billing Discrepancy Detection Sy
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+
+## Feedback
+
+Your feedback is important to me! If you have any suggestions, questions, or feedback regarding this project, please feel free to reach out to me at:
+
+- Email: [aravinthmegnath@gmail.com]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/aravinth-meganathan-200667a1/)
+
+I appreciate your valuable input and look forward to hearing from you!
