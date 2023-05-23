@@ -34,13 +34,39 @@ The system generates a resultant CSV/Excel file with the following columns:
 - Charges billed by the courier company
 - Difference between expected and billed charges
 
+## Exploratory Data Analysis (EDA)
+
+During the course of this project, various exploratory data analysis techniques were applied to gain insights into the dataset. The following EDA findings provide a deeper understanding of the data and are relevant to the project:
+
+### Histogram of Total Weight
+![Histogram of Total Weight](https://github.com/Aravinth-Megnath/Data-analysis-project--Delivery-cost/assets/120720408/b41fdeec-e2e2-4c7f-b59e-70a1490fa24d)
+
+The histogram shows the distribution of the total weight of packages as per Company X. It reveals that the majority of the packages in the dataset have a weight between 0.5 and 1.5 kilograms.
+
+### Barplot - Courier Company Charges by Delivery Zone
+![Barplot - Courier Company Charges by Delivery Zone](https://github.com/Aravinth-Megnath/Data-analysis-project--Delivery-cost/assets/120720408/acda5208-fc11-4693-b68f-37c99f7fae70)
+
+The bar plot displays the charges billed by the courier company for each delivery zone. It indicates that delivery zones b, d, and e have the highest charges. The length of the line bisecting the bars represents the standard deviation of the charges. Zone e exhibits higher variability in charges compared to other zones.
+
+### Scatterplot - Expected vs. Billed Charges by Courier Company
+![Scatterplot - Expected vs. Billed Charges by Courier Company](screenshots/scatterplot_expected_billed_charges.png)
+
+The scatterplot illustrates the relationship between the expected charges and the billed charges by the courier company for different delivery zones. It shows that there is variability in the billed charges for different expected charges and delivery zones.
+
+### Boxplot - Comparison of Delivery Zone Charges
+![Boxplot - Comparison of Delivery Zone Charges](https://github.com/Aravinth-Megnath/Data-analysis-project--Delivery-cost/assets/120720408/ce8e94f3-9ce5-493d-b0b9-1adc0011e5d6)
+
+
+The box plot compares the charges billed by the courier company for different delivery zones. It reveals that delivery zones b and d have a wider range of charges, including some outliers, indicating variability in charges. Zone e has a wider range of charges, without any outliers.
+
+
+
 ## Getting Started
 To use the Delivery Cost Analysis and Billing Discrepancy Detection System, you can follow these steps:
 1. Prepare the required input datasets.
 2. Run the system to perform the analysis and generate the resultant CSV/Excel file.
 3. Review the analysis results to identify billing discrepancies and gain insights into weight slabs, delivery zones, and charges.
 
-Please refer to the project documentation and code for detailed instructions on setting up and running the system.
 
 ## Contributing
 Contributions to the Delivery Cost Analysis and Billing Discrepancy Detection System are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
