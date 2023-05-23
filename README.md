@@ -44,12 +44,12 @@ During the course of this project, various exploratory data analysis techniques 
 The histogram shows the distribution of the total weight of packages as per Company X. It reveals that the majority of the packages in the dataset have a weight between 0.5 and 1.5 kilograms.
 
 ### Barplot - Courier Company Charges by Delivery Zone
-![Barplot - Courier Company Charges by Delivery Zone](https://github.com/Aravinth-Megnath/Data-analysis-project--Delivery-cost/assets/120720408/acda5208-fc11-4693-b68f-37c99f7fae70)
+![Barplot - Courier Company Charges by Delivery Zone](https://github.com/Aravinth-Megnath/Data-analysis-project--Delivery-cost/assets/120720408/e672859d-0403-4ae9-adc9-31b59e287770)
 
 The bar plot displays the charges billed by the courier company for each delivery zone. It indicates that delivery zones b, d, and e have the highest charges. The length of the line bisecting the bars represents the standard deviation of the charges. Zone e exhibits higher variability in charges compared to other zones.
 
 ### Scatterplot - Expected vs. Billed Charges by Courier Company
-![Scatterplot - Expected vs. Billed Charges by Courier Company](screenshots/scatterplot_expected_billed_charges.png)
+![Scatterplot - Expected vs. Billed Charges by Courier Company](https://github.com/Aravinth-Megnath/Data-analysis-project--Delivery-cost/assets/120720408/acda5208-fc11-4693-b68f-37c99f7fae70)
 
 The scatterplot illustrates the relationship between the expected charges and the billed charges by the courier company for different delivery zones. It shows that there is variability in the billed charges for different expected charges and delivery zones.
 
